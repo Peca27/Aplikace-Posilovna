@@ -2,6 +2,8 @@
 
 Offline PWA deník posilování s iOS vzhledem — bez backendu, bez závislostí. Data se ukládají jen do zařízení (`localStorage`).
 
+> ♞ V repozitáři je také offline aplikace **[Šachy](sachy/)** (proti počítači i pro dva hráče, s pravidly a nápovědou) — na GitHub Pages běží na adrese `…/sachy/`. Podrobnosti v [sachy/README.md](sachy/README.md).
+
 ## Funkce
 
 - **Záznam tréninku** — výběr cviku, série × opakování × váha, odškrtávání hotových sérií
